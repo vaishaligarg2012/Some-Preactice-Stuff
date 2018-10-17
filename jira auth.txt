@@ -1,0 +1,30 @@
+authorization URL:      https://vaishaligarg.atlassian.net/plugins/servlet/oauth/authorize
+
+request token url:   https://vaishaligarg.atlassian.net/plugins/servlet/oauth/request-token
+
+Access Token URL:       https://vaishaligarg.atlassian.net/plugins/servlet/oauth/access-token
+
+
+https://www.zopim.com/oauth2/authorizations/new?response_type=token&client_id=quip&scope=read&redirect_uri=https://quip.com/element-auth/CKWAjAFfUu2/Zendesk
+
+
+
+https://astrea-integration.zendesk.com/oauth/tokens
+
+https://astrea-integration.zendesk.com/oauth/authorizations/new
+
+
+xXodmayq••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+
+https://astreaitservices.zendesk.com/agent/discovery
+
+
+<div className={Styles.hello}>
+         
+         <input type="text" onChange={this.updateInput} placeholder="subdomain"/>
+         <button type="submit">Authorize</button>
+
+
+     
+        </div>;
